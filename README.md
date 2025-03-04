@@ -1,19 +1,60 @@
-<h1>Hi, I'm Ayobami! <br/><a href="https://github.com/AyobamiMohmoh">Programmer</a>, <a href="https://www.linkedin.com/in/Ayobamibello/">Data Analyst</a> </h1>
+# Hey there i'm Ayobami
 
-<h2>👨‍💻 Data Analystics Projects:</h2>
+## 📌 Overview
 
-- <b>Active Directive Home lab</b>
-  - [Active Directive Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
-<h2>👨‍💻Certifications</h2>
-  -<b>Edubridge Academy</b>
+Hey there! Welcome to my README. I'm a Data Analyst with experience working on various projects, including sales analysis using the AdventureWorks database and exploring correlations in movie datasets. This document serves as an overview of my work, tools, and methodologies.
 
-<h2>📺 Popular YouTube Videos</h2>
+## 📊 Projects & Experience
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+### **1. AdventureWorks Sales Analysis**
+
+- Conducted sales performance analysis using the AdventureWorks database.
+- Extracted and cleaned sales data using SQL.
+- Identified key trends, customer segmentation, and revenue patterns.
+- Developed interactive dashboards using Power BI/Tableau.
+- Provided actionable insights to improve sales strategy and forecasting.
+
+### **2. Movie Dataset Correlation Analysis**
+
+- Analyzed relationships between various movie attributes such as ratings, budgets, and revenue.
+- Utilized Python (Pandas, Seaborn, Matplotlib) for data wrangling and visualization.
+- Discovered correlations between factors like genre, runtime, and box office performance.
+- Applied regression models to predict movie success metrics.
+
+## 🛠️ Tools & Technologies
+
+### **Programming & Query Languages:**
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- SQL (PostgreSQL, MySQL, SQL Server)
+
+
+### **Data Visualization & BI Tools:**
+
+- Power BI
+- Excel (Pivot Tables, Power Query, )
+
+### **Data Storage & Processing:**
+
+- Google BigQuery
+
+### **Version Control & Collaboration:**
+
+- GitHub/GitLab/Bitbucket
+- Jupyter Notebooks / Google Colab
+
+
+
+## 📝 Workflow
+
+1. **Understand the Business Problem**: Define the objectives and key questions.
+2. **Data Collection**: Gather data from databases, APIs, or external sources.
+3. **Data Cleaning & Preprocessing**: Handle missing values, outliers, and transformations.
+4. **Exploratory Data Analysis (EDA)**: Generate summaries, visualize distributions, and detect trends.
+5. **Modeling & Analysis**: Apply statistical methods and machine learning if applicable.
+6. **Reporting & Visualization**: Present findings through dashboards and reports.
+7. **Insights & Recommendations**: Provide actionable insights for decision-makers.
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -30,14 +71,3 @@
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
